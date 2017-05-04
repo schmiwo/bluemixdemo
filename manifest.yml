@@ -1,5 +1,5 @@
 ---
 applications:
-- name:    hello-node
-  host:    hello-node
+- name:    toolchain
+  host:    toolchain4711
   memory:  128M
